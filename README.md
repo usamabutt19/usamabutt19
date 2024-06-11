@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **buttusamarwp@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/m-usama-butt-a9a536196/](https://www.linkedin.com/in/m-usama-butt-a9a536196/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/m-usama-butt-a9a536196/](https://www.linkedin.com/in/musamabutt/)
 
 - ⚡ Fun fact **I love exploring new technologies.**
 
