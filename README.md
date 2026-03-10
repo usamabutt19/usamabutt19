@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usama Butt</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [CareerBooster.AI](https://careerbooster.ai)
 
 - 🌱 I’m currently learning **Advanced AI Models, Serverless Architecture, and TypeScript**
 
